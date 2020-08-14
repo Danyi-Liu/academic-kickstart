@@ -61,6 +61,4 @@ email: ""
 # - Visitors
 # ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Danyi Liu is a first year Master student in Statistics at University of Alberta. She currently working as a Consultant Trainee in the Training Consulting Center in Mathematical and Statistical Sciences department. She had experience in clinical data analysis, time series analysis, longitudinal data analysis and writing statistical report. She wish to work with researchers in different fields.
